@@ -17,7 +17,9 @@
 ```
 Prévia da aplicação
 ```
-![](https://github.com/marcosabreu39/Livraria_Servlet_Jsp_JDBC_Oracle11g/blob/master/WebContent/Livraria2.gif)
+<p align="center">
+  <img width="1600"  src="https://github.com/marcosabreu39/Livraria_Servlet_Jsp_JDBC_Oracle11g/blob/master/WebContent/Livraria2.gif">
+</p>
 
 ```
 Diagrama de Caso de uso Cliente:
