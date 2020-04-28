@@ -4,6 +4,8 @@
 
 * Arquitetura MVC;
 * Design Pattern Front Controller;
+* Servlet;
+* JSP;
 * JDBC;
 * Design Pattern DAO; 
 * POJOs; 
