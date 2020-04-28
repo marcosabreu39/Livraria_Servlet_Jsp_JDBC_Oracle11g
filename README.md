@@ -18,7 +18,7 @@
 Prévia da aplicação
 ```
 <p align="center">
-  <img width="900"  src="https://github.com/marcosabreu39/Livraria_Servlet_Jsp_JDBC_Oracle11g/blob/master/WebContent/Livraria2.gif">
+  <img width="800"  src="https://github.com/marcosabreu39/Livraria_Servlet_Jsp_JDBC_Oracle11g/blob/master/WebContent/Livraria2.gif">
 </p>
 
 ```
