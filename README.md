@@ -2,17 +2,19 @@
 
 ## Tecnologias
 
+* Java 7; 
 * Arquitetura MVC;
 * Design Pattern Front Controller;
+* Design Pattern DAO;
+* Design Pattern Factory; 
 * Servlet;
 * JSP;
 * JDBC;
-* Design Pattern DAO; 
-* POJOs; 
-* Banco de dados Oracle 11G;
+* POJOs;
 * JSTL;
 * HTML5;
 * CSS3;
+* Banco de dados Oracle 11G;
 * Servidor Tomcat;
 * IDE Eclipse Mars.
 
