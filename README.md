@@ -16,7 +16,8 @@
 * CSS3;
 * Banco de dados Oracle 11G;
 * Servidor Tomcat;
-* IDE Eclipse Mars.
+* IDE Eclipse Mars;
+* UML.
 
 ```
 Prévia da aplicação
